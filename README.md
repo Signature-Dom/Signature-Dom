@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/9XHjrUfTsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/discord.svg" alt="9XHjrUfTsm" height="30" width="40" /></a>
-<a href="https://t.me/SigDomCommunity" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="https://t.me/SigDomCommunity" height="30" width="40" /></a>
+<a href="https://t.me/SigDomCommunity" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="https://t.me/SigDomCommunity" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
