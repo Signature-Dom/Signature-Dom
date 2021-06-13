@@ -15,6 +15,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SignatureDom&" alt="signature-dom" /></p>
 
-![SignatureDom](https://github-readme-stats.vercel.app/api?username=SignatureDom&hide=prs&count_private=true&show_icons=true&title_color=c9d1d9&text_color=c9d1d9&icon_color=6e7681&bg_color=0d1117&border_color=30363d&locale=en)
-
 ![SignatureDom](https://github-readme-stats.vercel.app/api/top-langs/?username=SignatureDom&title_color=c9d1d9&count_private=true&text_color=c9d1d9&icon_color=6e7681&bg_color=0d1117&border_color=30363d&locale=en)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SignatureDom&theme=midnight-purple&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
