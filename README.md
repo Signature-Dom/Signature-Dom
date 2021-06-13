@@ -17,5 +17,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SignatureDom&theme=midnight-purple&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SignatureDom&layout=compact&theme=midnight-purple"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SignatureDom&layout=compact&theme=midnight-purple&count-private=true"/>
 </a>
